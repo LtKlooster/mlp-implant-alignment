@@ -29,8 +29,6 @@ This project requires the following Python packages:
 - torch
 - pandas
 - numpy
-- scikit-learn
-- matplotlib (optional, for plotting)
 - jupyter
 
 You can install them using:
